@@ -1,4 +1,4 @@
-# <!-- CD LAB assignments Submmitted by Uzzal Saha -->
+# CD LAB assignments Submmitted by Uzzal Saha
 
 # flex-codes
 
