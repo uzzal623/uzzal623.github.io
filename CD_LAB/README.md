@@ -1,5 +1,3 @@
-<!-- CD LAB assignments Submmitted by Uzzal Saha -->
-
-# flex-codes
+### CD LAB assignments Submitted by Uzzal Saha
 
 # flex-codes
